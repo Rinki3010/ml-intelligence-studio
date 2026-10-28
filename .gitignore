@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+backend/.venv/
+backend/studio.sqlite3
+artifacts/*
+!artifacts/.gitkeep
+data/*
+!data/.gitkeep
